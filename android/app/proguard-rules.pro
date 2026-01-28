@@ -17,6 +17,9 @@
 # Just Audio
 -keep class com.ryanheise.just_audio.** { *; }
 
+# On Audio Query
+-keep class com.lucasjosino.on_audio_query.** { *; }
+
 # Media Metadata Retriever
 -keep class com.ryanheise.metadataretriever.** { *; }
 

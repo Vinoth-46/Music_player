@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
           androidNotificationChannelName: 'Music Playback',
           androidNotificationOngoing: true,
           androidStopForegroundOnPause: true,
-          androidNotificationIcon: 'drawable/ic_launcher',
+          androidNotificationIcon: 'mipmap/ic_launcher',
         ),
       );
       if (mounted) {
