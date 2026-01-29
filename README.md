@@ -120,7 +120,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Developer
 
-**Vinoth** - Flutter Developer
+**Vinoth**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vinoth--46-black?style=flat&logo=github)](https://github.com/Vinoth-46)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinoth465-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinoth465/)
